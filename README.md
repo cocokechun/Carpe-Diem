@@ -7,9 +7,9 @@ I have a few repos that you can check out projects I do for fun.
 
 Machine learning projects I have tried. I started some with some tutorials and try to do fun things with them. Some are more creative types.
 
-### CNN Project
+### [CNN Project](https://github.com/cocokechun/CNN)
 
-In this project, I tried playing around some common existing CNN models, with Keras library (highly recommend), like Inception V3, ResNet 50. And do transfer learning on these models with a flower dataset I found in Kaggle.
+In this project, I tried playing around some common existing CNN models, with Keras library (highly recommend), like Inception V3, ResNet 50. And do transfer learning on these models with a [flower dataset](https://www.kaggle.com/alxmamaev/flowers-recognition) I found in Kaggle.
 
 ## [Programming](https://github.com/cocokechun/Programming)
 
