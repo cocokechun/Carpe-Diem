@@ -1,37 +1,18 @@
-## Welcome to Coco Page
+## Welcome to Coco's Page
 
-You can use the [editor on GitHub](https://github.com/cocokechun/Intro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I have a few repos that you can check out projects I do for fun.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ML
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Machine learning projects I have tried out. I started some with some tutorials and try to do fun things with them. Some are creative ideas I tried.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Programming
 
-- Bulleted
-- List
+Competitive programming questions I have written in the past, mainly in college.
 
-1. Numbered
-2. List
+### Coursera ML
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cocokechun/Intro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I took Machine Learning course on Coursera and have all the homework in that folder.
